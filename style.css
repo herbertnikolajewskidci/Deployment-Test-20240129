@@ -1,8 +1,9 @@
 body {
   background-color: chocolate;
+  color: azure;
+  font-size: 2rem;
 }
 
 h1 {
   font-size: 10rem;
-  color: azure;
 }
